@@ -1,0 +1,1 @@
+Simple function which returns a through stream. It takes two fn arguments, the first is fired on the readable event and the second on finish from writing. This is just a convience method ontop of the streams2 api in Node core.
