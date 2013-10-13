@@ -1,0 +1,22 @@
+{
+  "name": "thru",
+  "version": "0.0.1",
+  "description": "Function returning simple through stream taking two fn args fired on `readable` and `finished` events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sonewman/thru.git"
+  },
+  "keywords": [
+    "through",
+    "stream"
+  ],
+  "author": "Sam Newman",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/sonewman/thru/issues"
+  }
+}
